@@ -1,0 +1,22 @@
+board	solver.pl	8
+board	solver.pl	26
+board	solver.pl	43
+board	solver.pl	61
+boxcheck	solver.pl	86
+checkBox	solver.pl	/^sub checkBox {$/
+checkColumn	solver.pl	/^sub checkColumn {$/
+checkRow	solver.pl	/^sub checkRow {$/
+column	solver.pl	45
+column	solver.pl	64
+columncheck	solver.pl	85
+local_column	solver.pl	69
+local_row	solver.pl	68
+nine	solver.pl	20
+number	solver.pl	27
+number	solver.pl	44
+number	solver.pl	62
+row	solver.pl	28
+row	solver.pl	63
+rowcheck	solver.pl	84
+temp_column	solver.pl	47
+temp_row	solver.pl	30
